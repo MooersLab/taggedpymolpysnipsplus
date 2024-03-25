@@ -1,10 +1,11 @@
+![Version](https://img.shields.io/static/v1?label=taggedpymolpysnipsplus&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # taggedpymolpysnipsplus: Work in Progress
 
 The repository for a variant of the taggedpymolpysnips library that has a second copy of the code with the tab stops marked.
 This marked up code compensates for the absence of tab stops in the Elyra snippet system for Jupyter.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Version](https://img.shields.io/static/v1?label=taggedpymolpysnips&message=0.1&color=brightcolor)
 
 For a list of the snippets and their descriptions, also go to the [GitHub Page](https://mooerslab.github.io/pymolsnips/).
 
